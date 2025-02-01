@@ -16,7 +16,7 @@
 ## Contrôles  
 | Action        | Touche |
 |--------------|--------|
-| Se déplacer  | ZQSD / Joystick gauche |
+| Se déplacer  | WASD / Joystick gauche |
 | Viser        | Souris / Stick droit |
 | Tirer        | Clic gauche / RT (manette) |
 | Voir les inputs| H |
